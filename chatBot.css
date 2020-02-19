@@ -1,0 +1,28 @@
+#display{
+    width: 90%;
+   height: 300px;
+    border: 5px solid black;
+    margin: 30px;
+   overflow: scroll; 
+}
+#userTextBox{
+    width:400px;
+height:80px;
+border: 5px solid black;
+margin: 30px;
+margin-left: 200px;
+}
+#submit{
+    width:100px;
+    height:40px;
+
+border: 5px solid black;
+}
+.user{
+    color:crimson;
+    font-weight: bold;
+}
+.bot{
+    color:green;
+    font-weight: bold;
+}
